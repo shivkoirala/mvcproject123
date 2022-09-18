@@ -3,7 +3,7 @@ variables:
 
 steps:
   - script: 
-     echo $(variables.os)
+     echo ${{variables.os}}
     displayName: Step1 script
   
   - script :
