@@ -1,7 +1,9 @@
+variables:
+  os: windows
 
 steps:
   - script: 
-     echo this is first script
+     echo $(variables.os)
     displayName: Step1 script
   
   - script :
