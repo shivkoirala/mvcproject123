@@ -7,5 +7,5 @@ steps:
     displayName: Step1 script
   
   - script :
-     echo this is second script
+     echo $(os)
     displayName: Step2 Script
