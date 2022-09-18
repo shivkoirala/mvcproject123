@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace WebApplication2
 {
+    // this is a change
     public class Startup
     {
         public Startup(IConfiguration configuration)
