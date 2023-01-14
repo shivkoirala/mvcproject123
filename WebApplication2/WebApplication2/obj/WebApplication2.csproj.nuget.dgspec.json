@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\githubmvc\\shivkoirala\\mvcproject123\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
+    "E:\\newdeploy\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "E:\\githubmvc\\shivkoirala\\mvcproject123\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
+    "E:\\newdeploy\\WebApplication2\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\githubmvc\\shivkoirala\\mvcproject123\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "E:\\newdeploy\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "E:\\githubmvc\\shivkoirala\\mvcproject123\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "E:\\newdeploy\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "E:\\githubmvc\\shivkoirala\\mvcproject123\\WebApplication2\\WebApplication2\\obj\\",
+        "outputPath": "E:\\newdeploy\\WebApplication2\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
